@@ -11,8 +11,6 @@ public class Test {
 		while (itr.hasNext()) {
 			System.out.println(itr.next());
 		}
-		
-//		GenericContainer gContainer = new GenericContainer();
 
 	}
 
