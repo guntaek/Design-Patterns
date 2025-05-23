@@ -12,7 +12,7 @@ public class Test {
 			System.out.println(itr.next());
 		}
 		
-		GenericContainer gContainer = new GenericContainer();
+//		GenericContainer gContainer = new GenericContainer();
 
 	}
 
